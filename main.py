@@ -40,7 +40,7 @@ if __name__ == '__main__':
     "00:00:00:00:00:00":
     {
       "type": "Device",
-      "owner": "John Appleseed",
+      "owner": "John Wick",
       "location": null,
       "allowed": true
     }
